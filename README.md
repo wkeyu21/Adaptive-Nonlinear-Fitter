@@ -1,5 +1,5 @@
 # Adaptive Nonlinear Function Combination Fitter for 5-Dimensional Data
-## Automatic nonlinear fitting tool for 5-dimensional data (5 independent + 1 dependent variables).
+## Automatic nonlinear fitting tool.
 
 # Overview
 A Python tool for automatic nonlinear regression fitting of 5-dimensional independent variable data. It generates nonlinear function combinations dynamically, prunes insignificant terms via statistical tests, searches for the optimal model through multiple rounds, and exports structured results to Excel.
